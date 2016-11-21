@@ -1,91 +1,91 @@
-ï»¿[
+[
 {
         "name": "First Richman",
-        "image": "https://raw.githubusercontent.com/mobilesiri/Android-Custom-Listview-Using-Volley/master/images/Bill_Gates.jpg",
+        "image": "https://raw.githubusercontent.com/iCodersLab/Custom-ListView-Using-Volley/master/images/Bill_Gates.jpg",
         "worth": "$89 billion",
         "InYear": 2015,
         "source": "Microsoft"
     },
     {
         "name": "Second Richman",
-        "image": "https://raw.githubusercontent.com/mobilesiri/Android-Custom-Listview-Using-Volley/master/images/Carlos_Slim_Helu.jpg",
+        "image": "https://raw.githubusercontent.com/iCodersLab/Custom-ListView-Using-Volley/master/images/Carlos_Slim_Helu.jpg",
         "worth": "$85 billion",
         "InYear": 2015,
         "source": "Telmex, Grupo Carso"
     },
     {
         "name": "Third Richman",
-                "image": "https://raw.githubusercontent.com/mobilesiri/Android-Custom-Listview-Using-Volley/master/images/WarrenBuffett.jpg",
+                "image": "https://raw.githubusercontent.com/iCodersLab/Custom-ListView-Using-Volley/master/images/WarrenBuffett.jpg",
                 "worth": "$77 billion",
                 "InYear": 2015,
                 "source": "Berkshire Hathaway"
     },
     {
         "name": "Fourth Richman",
-                "image": "https://raw.githubusercontent.com/mobilesiri/Android-Custom-Listview-Using-Volley/master/images/amancio_ortega.jpg",
+                "image": "https://raw.githubusercontent.com/iCodersLab/Custom-ListView-Using-Volley/master/images/amancio_ortega.jpg",
                 "worth": "$70 billion",
                 "InYear": 2015,
                 "source": "Inditex Group"
     },
     {
        "name": "Fifth Richman",
-               "image": "https://raw.githubusercontent.com/mobilesiri/Android-Custom-Listview-Using-Volley/master/images/Larry_Elllison.jpg",
+               "image": "https://raw.githubusercontent.com/iCodersLab/Custom-ListView-Using-Volley/master/images/Larry_Elllison.jpg",
                "worth": "$65 billion",
                "InYear": 2015,
                "source": "Oracle Corporation"
     },
     {
         "name": "Sixth Richman",
-                "image": "https://raw.githubusercontent.com/mobilesiri/Android-Custom-Listview-Using-Volley/master/images/cgkochwide.jpg",
+                "image": "https://raw.githubusercontent.com/iCodersLab/Custom-ListView-Using-Volley/master/images/cgkochwide.jpg",
                 "worth": "$45 billion",
                 "InYear": 2015,
                 "source": "Koch Industries"
     },
     {
         "name": "Seventh Richman",
-                "image": "https://raw.githubusercontent.com/mobilesiri/Android-Custom-Listview-Using-Volley/master/images/David_Kochcrop2007.jpg",
+                "image": "https://raw.githubusercontent.com/iCodersLab/Custom-ListView-Using-Volley/master/images/David_Kochcrop2007.jpg",
                 "worth": "$42 billion",
                 "InYear": 2015,
                 "source": "Koch Industries"
     },
     {
         "name": "Christy Walton",
-                "image": "https://raw.githubusercontent.com/mobilesiri/Android-Custom-Listview-Using-Volley/master/images/christywalton.jpg",
+                "image": "https://raw.githubusercontent.com/iCodersLab/Custom-ListView-Using-Volley/master/images/christywalton.jpg",
                 "worth": "$41.7 billion ",
                 "InYear": 2015,
                 "source": "Wal-Mart"
     },
     {
         "name": "Jim Walton",
-                "image": "https://raw.githubusercontent.com/mobilesiri/Android-Custom-Listview-Using-Volley/master/images/Jim_Walton.jpg",
+                "image": "https://raw.githubusercontent.com/iCodersLab/Custom-ListView-Using-Volley/master/images/Jim_Walton.jpg",
                 "worth": "$40.6 billion",
                 "InYear": 2015,
                 "source": "Wal-Mart"
     },
     {
        "name": "Liliane Bettencourt",
-               "image": "https://raw.githubusercontent.com/mobilesiri/Android-Custom-Listview-Using-Volley/master/images/lilianebettencourt.jpg",
+               "image": "https://raw.githubusercontent.com/iCodersLab/Custom-ListView-Using-Volley/master/images/lilianebettencourt.jpg",
                "worth": "$40.1 billion",
                "InYear": 2015,
                "source": "L'Oreal"
     },
     {
         "name": "Carlos Slim & family",
-                "image": "https://raw.githubusercontent.com/mobilesiri/Android-Custom-Listview-Using-Volley/master/images/CarlosSlimfamily.jpg",
+                "image": "https://raw.githubusercontent.com/iCodersLab/Custom-ListView-Using-Volley/master/images/CarlosSlimfamily.jpg",
                 "worth": "$79.2 billion",
                 "InYear": 2014,
-                "source": "Telmex, AmÃ©rica MÃ³vil, Grupo Carso"
+                "source": "Telmex, América M?vil, Grupo Carso"
     },
     {
        "name": "Bernard Arnault",
-               "image": "https://raw.githubusercontent.com/mobilesiri/Android-Custom-Listview-Using-Volley/master/images/Bernard_Arnault.jpg",
+               "image": "https://raw.githubusercontent.com/iCodersLab/Custom-ListView-Using-Volley/master/images/Bernard_Arnault.jpg",
                "worth": "$29.0 billion",
                "InYear": 2013,
-               "source": "LVMH MoÃ«t Hennessy â€¢ Louis Vuitton"
+               "source": "LVMH Moët Hennessy • Louis Vuitton"
     },
     {
         "name": "Prince Al-Waleed",
-                "image": "https://raw.githubusercontent.com/mobilesiri/Android-Custom-Listview-Using-Volley/master/images/PrinceAlwaleed.jpg",
+                "image": "https://raw.githubusercontent.com/iCodersLab/Custom-ListView-Using-Volley/master/images/PrinceAlwaleed.jpg",
                 "worth": "$23.7 billion",
                 "InYear": 2005,
                 "source": "Kingdom Holding Company"
