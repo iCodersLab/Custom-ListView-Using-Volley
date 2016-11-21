@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="match_parent" android:layout_height="match_parent"
+    android:background="@drawable/list_row_select" android:orientation="vertical" xmlns:android=" "
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="  ">
+
+    <com.android.volley.toolbox.NetworkImageView android:id="@+id/image_view"
+        android:layout_width="80dp" android:layout_height="80dp"
+        android:layout_alignParentLeft="true" android:layout_margin="8dp" />
+    <!---movie title-->
+    <TextView android:id="@+id/tv_title" android:layout_width="match_parent"
+        android:layout_height="wrap_content" android:layout_alignTop="@+id/image_view"
+        android:layout_toRightOf="@+id/image_view" android:text="@string/test"
+        android:textSize="17dp" />
+    <!--rate-->
+    <TextView android:id="@+id/tv_rate" android:layout_width="fill_parent"
+        android:layout_height="wrap_content" android:layout_below="@+id/tv_title"
+        android:layout_marginTop="1dp" android:layout_toRightOf="@+id/image_view"
+        android:text="@string/test" android:textSize="15dp" />
+    <!--genre-->
+    <TextView android:id="@+id/tv_genre" android:layout_width="match_parent"
+        android:layout_height="wrap_content" android:layout_below="@+id/tv_rate"
+        android:layout_marginTop="5dp" android:layout_toRightOf="@+id/image_view"
+        android:text="@string/test" android:textSize="13dp" />
+    <!--year-->
+    <TextView android:id="@+id/tv_year" android:layout_width="wrap_content"
+        android:layout_height="wrap_content" android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true" android:layout_toRightOf="@+id/image_view"
+        android:gravity="right" android:text="@string/test" android:textSize="12dp" />
+</RelativeLayout>
